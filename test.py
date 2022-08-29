@@ -3,3 +3,6 @@
 # @Time : 2022/8/29 23:10
 # @File : test.py
 # @software : PyCharm
+print("hello Git")
+print("hot-fix")
+print(122)
